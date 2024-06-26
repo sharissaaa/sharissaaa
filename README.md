@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sharissa+Marian+Hurtis!;" />
 </h1>
-# 💫 About Me:-
+# 💫 About Me:
 🔭 I’m currently working on:<br>- Improving my programming skills in various languages such as Python, Java and C<br><br>👯 I’m looking to collaborate on:<br>- Open-source projects where I can contribute to and learn from the community.<br>- Innovative software development projects.<br><br>🤝 I’m looking for help with:<br>- Advanced concepts in software development and best practices.<br>- Guidance on career opportunities and internships in the tech industry.<br><br>🌱 I’m currently learning:<br>- New frameworks - Laravel .<br>- Concepts in data structures and algorithms to improve my problem-solving skills.<br><br>💬 Ask me about:<br>- My experiences and projects during my MCA at Rajagiri College of Social Sciences, Kalamassery.<br>- Tips on balancing academic workload with personal projects.<br><br>
 
 ## 🌐 Socials:-

@@ -5,7 +5,7 @@
 🔭 I’m currently working on:<br>- Improving my programming skills in various languages such as Python, Java and C<br><br>👯 I’m looking to collaborate on:<br>- Open-source projects where I can contribute to and learn from the community.<br>- Innovative software development projects.<br><br>🤝 I’m looking for help with:<br>- Advanced concepts in software development and best practices.<br>- Guidance on career opportunities and internships in the tech industry.<br><br>🌱 I’m currently learning:<br>- New frameworks - Laravel .<br>- Concepts in data structures and algorithms to improve my problem-solving skills.<br><br>💬 Ask me about:<br>- My experiences and projects during my MCA at Rajagiri College of Social Sciences, Kalamassery.<br>- Tips on balancing academic workload with personal projects.<br><br>
 
 ## 🌐 Socials:-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharissa-marian-hurtis-4a7028204/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharissa-marian-hurtis-4a7028204/)
 
 
 # 💻 Tech Stack:-

@@ -16,7 +16,7 @@
 
 ---
 
-## ⚙️ Tech Stack — Used by Me
+## ⚙️ Tech Stack
 
 <p align="center">
   <!-- Languages -->

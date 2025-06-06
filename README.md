@@ -53,15 +53,33 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
-### ⚙️ Tools & Environments
+### ⚙️ Tools & Environments — Used by Me
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <!-- IDEs & Editors -->
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse" alt="VS Code & Eclipse" />
+
+  <!-- Version Control -->
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git & GitHub" />
+
+  <!-- API Testing & Documentation -->
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
+
+  <!-- Web Servers & Local Environments -->
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/Apache-F44336?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+
+  <!-- Operating Systems & Shell -->
+  <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux & Bash" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 

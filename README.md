@@ -16,6 +16,34 @@
 
 ---
 
+## ⚙️ Tech Stack — Used by Me
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,c,php,js,ts,bash" alt="Languages" />
+  
+  <!-- Web Development -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,laravel,django,nodejs,express" alt="Web Technologies" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="28"/>
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,linux" alt="Tools" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Apache-F44336?style=for-the-badge&logo=apache&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="28"/>
+
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="28"/>
+</p>
+
+---
+
 ## 📈 GitHub Profile Metrics
 
 <p align="center">
@@ -27,59 +55,6 @@
 </p>
 
 ---
-
-## 🛠️ Technical Skillset
-
-### 🔣 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,php,js,ts,bash" />
-</p>
-
-### 🖥️ Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,laravel,django,nodejs,express" />
-</p>
-
-### 🤖 AI / ML & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-</p>
-
-### ⚙️ Tools & Environments — Used by Me
-
-<p align="left">
-  <!-- IDEs & Editors -->
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse" alt="VS Code & Eclipse" />
-
-  <!-- Version Control -->
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Git & GitHub" />
-
-  <!-- API Testing & Documentation -->
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
-
-  <!-- Web Servers & Local Environments -->
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-  <img src="https://img.shields.io/badge/Apache-F44336?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-
-  <!-- Operating Systems & Shell -->
-  <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux & Bash" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-</p>
-
 
 ## 📊 GitHub Stats
 

@@ -1,52 +1,54 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad,6c5ce7&height=200&section=header&text=Sharissa%20Marian%20Hurtis&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4,14b8a6&height=180&section=header&text=Sharissa%20Marian%20Hurtis&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#8e44ad;">Sharissa Marian Hurtis</span></h1>
-<p align="center"><em>MCA Graduate • Backend Developer • Open Source Enthusiast</em></p>
+<h1 align="center" style="color:#14b8a6;">Hi there, I'm Sharissa Marian Hurtis</h1>
+<p align="center" style="font-style: italic; color:#0c4a6e;">MCA Graduate • Backend Developer • Open Source Enthusiast</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8e44ad&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Backend+Developer;Tech+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14b8a6&center=true&vCenter=true&multiline=true&width=480&height=60&lines=Backend+Developer;Tech+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%22Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.%22-8e44ad?style=for-the-badge&labelColor=2c2c2c&color=8e44ad" />
-</p>
+<div align="center" style="margin-bottom: 25px;">
+  <span style="background-color:#e0f2fe; color:#0c4a6e; padding: 7px 18px; font-weight: 600; border-radius: 20px; font-size: 14px;">
+    "Code is like humor. When you have to explain it, it’s bad."
+  </span>
+</div>
 
 ---
 
-## 📌 About Me
+## About Me
 
-- 🎓 MCA Graduate from **Rajagiri College of Social Sciences**  
-- 🧩 Passionate about backend architecture, REST APIs & writing clean, scalable code  
-- 🔍 Currently exploring **advanced Laravel**, **Docker**, and **CI/CD pipelines**  
-- 🤝 Open to backend & open-source collaborations  
-- 🌱 Always learning and leveling up one commit at a time  
-
----
-
-## 🚀 Projects & Contributions
-
-- 🔄 **API Performance Monitor** - Laravel + JMeter powered internal tool to track endpoint performance  
-- 📦 **XAMPP Dev Tools** - Scripted setups for PHP & MySQL-based backend environments  
-- 🧠 **AI Edge Projects** - Playing around with OpenCV and YOLO for smart surveillance concepts  
-- 🛠️ Contributor to small open-source PHP and Python utilities  
-
-> _Want a project partner? [Let's connect!](https://www.linkedin.com/in/sharissa-marian-hurtis-4a7028204/)_
+- MCA Graduate from **Rajagiri College of Social Sciences**  
+- Passionate about backend architecture, REST APIs & writing clean, scalable code  
+- Currently exploring advanced Laravel, Docker, and CI/CD pipelines  
+- Open to backend & open-source collaborations  
+- Committed to continuous learning and growth through meaningful contributions  
 
 ---
 
-## 🛠️ Tech Stack
+## Projects & Contributions
+
+- API Performance Monitor — Laravel + JMeter tool to track endpoint performance  
+- XAMPP Dev Tools — Scripted setups for PHP & MySQL development environments  
+- AI Edge Projects — Using OpenCV and YOLO for smart surveillance prototypes  
+- Contributor to various PHP and Python open-source utilities  
+
+_For collaborations or inquiries, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/sharissa-marian-hurtis-4a7028204/)._
+
+---
+
+## Tech Stack
 
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,c,php,js,ts,bash" alt="Languages" />
   
-  <!-- Web Technologies -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,laravel,django,nodejs,express" alt="Web Frameworks" />
+  <!-- Web Frameworks -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,laravel,django,nodejs,express" alt="Frameworks" />
   
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases" />
@@ -67,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Metrics
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharissaaa&theme=github_dark" />
@@ -79,7 +81,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharissaaa&theme=github_dark&show_icons=true&hide_title=true" width="48%" />
@@ -92,7 +94,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sharissaaa&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
@@ -100,15 +102,15 @@
 
 ---
 
-## 📬 Let's Connect
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharissa-marian-hurtis-4a7028204/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
   </a>
 </p>
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c5ce7,8e44ad&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6,06b6d4&height=130&section=footer" />
 </p>

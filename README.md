@@ -1,19 +1,24 @@
-<!-- HEADER -->
+<!-- HEADER: Glittery Purple Gradient with sparkle -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4,14b8a6&height=180&section=header&text=Sharissa%20Marian%20Hurtis&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2ff7,9d50bb&height=180&section=header&text=Sharissa%20Marian%20Hurtis&fontSize=44&fontColor=ffffff&animation=glitch" />
 </p>
 
-<h1 align="center" style="color:#14b8a6;">Hi there, I'm Sharissa Marian Hurtis</h1>
-<p align="center" style="font-style: italic; color:#0c4a6e;">MCA Graduate • Backend Developer • Open Source Enthusiast</p>
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-user-id?v=4" alt="Sharissa Marian Hurtis" width="140" style="border-radius:50%; box-shadow: 0 0 12px 3px #9d50bb;" />
+</p>
+
+<h1 align="center" style="color:#9d50bb;">Hi there, I'm Sharissa Marian Hurtis</h1>
+<p align="center" style="font-style: italic; color:#7b2ff7;">MCA Graduate • Backend Developer • Open Source Enthusiast</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14b8a6&center=true&vCenter=true&multiline=true&width=480&height=60&lines=Backend+Developer;Tech+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9d50bb&center=true&vCenter=true&multiline=true&width=480&height=60&lines=Backend+Developer;Tech+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
 <div align="center" style="margin-bottom: 25px;">
-  <span style="background-color:#e0f2fe; color:#0c4a6e; padding: 7px 18px; font-weight: 600; border-radius: 20px; font-size: 14px;">
+  <span style="background: linear-gradient(45deg, #7b2ff7, #9d50bb); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600; font-size: 14px;">
     "Code is like humor. When you have to explain it, it’s bad."
   </span>
 </div>
@@ -110,7 +115,7 @@ _For collaborations or inquiries, feel free to [connect with me on LinkedIn](htt
   </a>
 </p>
 
-<!-- FOOTER -->
+<!-- FOOTER: Glittery Purple Gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6,06b6d4&height=130&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9d50bb,7b2ff7&height=130&section=footer" />
 </p>

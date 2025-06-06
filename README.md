@@ -27,6 +27,14 @@
 
 ---
 
+## 📌 Advanced GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sharissaaa/sharissaaa/main/github-metrics.svg" width="100%" />
+</p>
+
+---
+
 ## 🛠️ Technical Skillset
 
 ### 💻 Programming Languages

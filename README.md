@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sharissa Marian Hurtis</h1>
-<p align="center"><em>MCA Graduate | Backend Developer | Open Source Enthusiast</em></p>
+<h1 align="center">Hi, I'm Sharissa Marian Hurtis</h1>
+<p align="center"><em>MCA Graduate • Backend Developer • Open Source Enthusiast</em></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B9B9B&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Backend+Developer;Tech+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
@@ -7,21 +7,21 @@
 
 ---
 
-## 🔍 About Me
+## About Me
 
-- 🎓 MCA Graduate from Rajagiri College of Social Sciences  
-- 💼 Passionate about scalable backends & API design  
-- 🌱 Currently learning advanced Laravel and Docker  
-- 🤝 I’m looking to collaborate on open-source/backend projects  
+- MCA Graduate from Rajagiri College of Social Sciences  
+- Passionate about backend engineering and scalable API design  
+- Exploring advanced Laravel concepts, Docker, and cloud-based deployment  
+- Open to collaborating on backend-focused or open-source projects  
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,c,php,js,ts,bash" alt="Languages" />
-  
+
   <!-- Web Development -->
   <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,laravel,django,nodejs,express" alt="Web Technologies" />
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 📈 GitHub Profile Metrics
+## GitHub Profile Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharissaaa&theme=github_dark" />
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharissaaa&theme=github_dark&show_icons=true&hide_title=true" width="48%" />
@@ -69,7 +69,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sharissaaa&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
@@ -77,7 +77,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharissa-marian-hurtis-4a7028204/" target="_blank">

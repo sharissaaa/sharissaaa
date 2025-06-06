@@ -1,3 +1,8 @@
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=200&section=header&text=Sharissa%20Marian%20Hurtis&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50;">Sharissa Marian Hurtis</span></h1>
 <p align="center"><em>MCA Graduate • Backend Developer • Open Source Enthusiast</em></p>
 
@@ -101,4 +106,9 @@
   <a href="https://www.linkedin.com/in/sharissa-marian-hurtis-4a7028204/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=footer" />
 </p>

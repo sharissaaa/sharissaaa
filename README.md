@@ -5,7 +5,7 @@
 </p>
 
 ---
-
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharissaaa&theme=tokyonight" width="95%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharissaaa&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharissaaa&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharissaaa&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharissaaa&theme=tokyonight&utcOffset=+5.5" /> </p>
 <p align="center">
 🌱 Passionate about clean code & backend architecture  
 💻 Currently diving into Laravel, Django & advanced DSA  

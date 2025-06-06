@@ -7,6 +7,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%22Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.%22-FEDE823?style=for-the-badge" />
+</p>
+
+---
+
 ## 📌 About Me
 
 - 🎓 MCA Graduate from **Rajagiri College of Social Sciences**  
@@ -14,6 +20,17 @@
 - 🔍 Currently exploring **advanced Laravel**, **Docker**, and **CI/CD pipelines**  
 - 🤝 Open to backend & open-source collaborations  
 - 🌱 Always learning and leveling up one commit at a time  
+
+---
+
+## 🚀 Projects & Contributions
+
+- 🔄 **API Performance Monitor** - Laravel + JMeter powered internal tool to track endpoint performance  
+- 📦 **XAMPP Dev Tools** - Scripted setups for PHP & MySQL-based backend environments  
+- 🧠 **AI Edge Projects** - Playing around with OpenCV and YOLO for smart surveillance concepts  
+- 🛠️ Contributor to small open-source PHP and Python utilities  
+
+> _Want a project partner? [Let's connect!](https://www.linkedin.com/in/sharissa-marian-hurtis-4a7028204/)_
 
 ---
 
@@ -78,7 +95,7 @@
 
 ---
 
-## 📬 Contact Me
+## 📬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharissa-marian-hurtis-4a7028204/" target="_blank">

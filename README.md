@@ -1,19 +1,19 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=200&section=header&text=Sharissa%20Marian%20Hurtis&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad,6c5ce7&height=200&section=header&text=Sharissa%20Marian%20Hurtis&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50;">Sharissa Marian Hurtis</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#8e44ad;">Sharissa Marian Hurtis</span></h1>
 <p align="center"><em>MCA Graduate • Backend Developer • Open Source Enthusiast</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Backend+Developer;Tech+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8e44ad&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Backend+Developer;Tech+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%22Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.%22-FEDE823?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%22Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.%22-8e44ad?style=for-the-badge&labelColor=2c2c2c&color=8e44ad" />
 </p>
 
 ---
@@ -110,5 +110,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c5ce7,8e44ad&height=120&section=footer" />
 </p>

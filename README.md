@@ -85,11 +85,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
 </p>
-
----
-
-## 👁️‍🗨️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharissaaa&style=for-the-badge&color=0abde3" alt="Profile Views" />
-</p>

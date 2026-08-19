@@ -1,73 +1,119 @@
-<h1 align="center">Hi 👋, I'm Sharissa Marian Hurtis</h1>
-<p align="center"><em>MCA Graduate • Backend Developer • Open Source Enthusiast</em></p>
+<h1 align="center">Sharissa Marian Hurtis</h1>
 
----
-
-### 📌 About Me
-- 🎓 MCA Graduate from **Rajagiri College of Social Sciences**  
-- 💻 Passionate about backend development, REST APIs & scalable systems  
-- 🐳 Currently exploring **Laravel**, **Docker**, and **CI/CD pipelines**  
-- 🔍 Interested in AI automation and intelligent systems  
-- 🤝 Open to backend, AI, and open-source collaborations  
-
----
-
-### 💼 Projects
-- **API Performance Monitor** — Performance testing tool using Laravel + JMeter  
-- **AI Edge Projects** — Smart surveillance prototypes with OpenCV & YOLO  
-- **Online Eye Clinic System** — Booking system built using PHP, MySQL, Bootstrap  
-- **Online Quiz Generator** — Desktop app in Java Swing for interactive learning  
-- **Google Search Analysis** — Data analytics with Python, Pandas, PyTrends  
-
----
-
-### 🛠 Tech Stack
-
-#### Programming & Scripting
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,php,js,ts,bash" />
-</p>
-
-#### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,laravel,django,nodejs,express,react" />
-</p>
-
-#### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="25" />
-</p>
-
-#### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,linux" />
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="25" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" height="25" />
-</p>
-
-#### AI / ML & Testing
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="25" />
-  <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black" height="25" />
-  <img src="https://img.shields.io/badge/CohereAI-7F00FF?style=for-the-badge" height="25" />
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharissaaa&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharissaaa&theme=tokyonight" width="48%" />
+  <strong>Software Engineer · Backend & Full-Stack Developer</strong>
 </p>
 
----
+<p align="center">
+  MCA Graduate · Building reliable applications, APIs & intelligent systems
+</p>
 
-### 📬 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sharissa-marian-hurtis-4a7028204/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/sharissaaa">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## About
+
+I’m a Software Engineer and MCA graduate with practical experience in backend and full-stack development, REST APIs, databases, testing, debugging, and application support.
+
+I enjoy turning requirements into reliable software, solving technical problems, and continuously learning new technologies. My interests include scalable backend systems, AI-powered applications, automation, and modern software engineering practices.
+
+---
+
+## Technical Skills
+
+### Languages
+`Python` · `Java` · `PHP` · `JavaScript` · `TypeScript` · `C`
+
+### Backend & Web
+`Laravel` · `FastAPI` · `Flask` · `Django` · `Node.js` · `React` · `HTML` · `CSS`
+
+### Databases
+`MySQL` · `PostgreSQL` · `MongoDB` · `SQLite`
+
+### APIs, DevOps & Tools
+`REST APIs` · `Git` · `GitHub` · `GitLab` · `Docker` · `Linux` · `Postman` · `Swagger` · `JMeter`
+
+### AI & Data
+`NLP` · `OpenCV` · `YOLO` · `Hugging Face` · `AI Automation`
+
+---
+
+## Selected Projects
+
+### Pathfinding Visualizer
+
+An interactive React application demonstrating BFS, DFS, Dijkstra's, and A* algorithms with a focus on algorithm visualization and problem solving.
+
+**React · JavaScript · Data Structures & Algorithms**
+
+---
+
+### Distributed Service Health & Fault Detection System
+
+A Python-based monitoring system for tracking service health, system resources, response times, and application status.
+
+**Python · FastAPI · REST APIs · Docker**
+
+---
+
+### AI-Powered Document Processing System
+
+A backend solution for automated document processing and structured information extraction using API-driven and NLP-based workflows.
+
+**Python · REST APIs · NLP · Automation**
+
+---
+
+### API Performance Monitor
+
+A performance testing application focused on API response-time analysis, reliability testing, and identifying performance bottlenecks.
+
+**Laravel · REST APIs · JMeter**
+
+---
+
+## Professional Experience
+
+### Software Engineer
+
+- Developed and enhanced enterprise applications based on business requirements.
+- Built backend functionality, REST APIs, business logic, validations, and database-driven features.
+- Investigated application issues through debugging, log analysis, and root-cause analysis.
+- Contributed to testing, deployments, production support, and application improvements.
+- Collaborated with cross-functional teams to deliver reliable software solutions.
+
+---
+
+## Education
+
+**Master of Computer Applications**  
+Rajagiri College of Social Sciences
+
+---
+
+## Currently Exploring
+
+`Backend Architecture` · `Cloud Technologies` · `Docker` · `CI/CD` · `AI-Assisted Development`
+
+---
+
+<p align="center">
+  <a href="https://github.com/sharissaaa">
+    <img src="https://img.shields.io/github/followers/sharissaaa?style=flat-square&label=Followers" />
+  </a>
+  <a href="https://github.com/sharissaaa?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat-square&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Build thoughtfully. Learn continuously. Solve meaningful problems.</i>
 </p>
